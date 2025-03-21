@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy for Beyond Label</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+    }
+    .container {
+      max-width: 800px;
+      margin: 20px auto;
+      padding: 20px;
+      background: #fff;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+    h1, h2 {
+      color: #333;
+    }
+    p {
+      margin: 10px 0;
+    }
+    a {
+      color: #007BFF;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Privacy Policy for Beyond Label</h1>
+    <p>
+      Beyond Label is a free app that provides food-related information using data from <a href="https://world.openfoodfacts.org/" target="_blank">Open Food Facts (OFF)</a>. This application does not require the creation of an account; therefore, we do not collect any personal data for registration or authentication purposes.
+    </p>
+
+    <h2>Data Source</h2>
+    <p>
+      <strong>Data Origin:</strong> The food data displayed in Beyond Label is extracted directly from the Open Food Facts database.
+    </p>
+    <p>
+      <strong>License and Conditions:</strong> Open Food Facts distributes its data under the <a href="https://opendatacommons.org/licenses/odbl/" target="_blank">Open Database License (ODbL)</a>. Please refer to the OFF website for detailed information on the license and any usage requirements, which may include attribution obligations.
+    </p>
+
+    <h2>Data Collection and Use</h2>
+    <p>
+      Beyond Label simply displays the information sourced from Open Food Facts. We do not incorporate or store any personal data from users.
+    </p>
+    <p>
+      We may collect non-identifiable analytical data (such as usage statistics and app performance metrics) to improve the service. This information does not allow for the direct identification of users.
+    </p>
+
+    <h2>Security</h2>
+    <p>
+      We implement industry best practices to secure the data from Open Food Facts and any collected usage statistics. However, no method of transmission or storage over the internet is completely secure, and we cannot guarantee absolute security.
+    </p>
+
+    <h2>Changes to This Privacy Policy</h2>
+    <p>
+      Updates to this Privacy Policy will be made directly in this document. Additionally, any changes regarding the license or privacy practices of Open Food Facts will be reflected on their website. It is the user’s responsibility to monitor both this document and the Open Food Facts privacy policy for any updates.
+    </p>
+
+    <h2>Contact Us</h2>
+    <p>
+      If you have any questions or suggestions regarding this Privacy Policy, please contact us at: <a href="mailto:thegolemapps@gmail.com">thegolemapps@gmail.com</a>.
+    </p>
+  </div>
+</body>
+</html>
